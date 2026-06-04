@@ -6,7 +6,7 @@ Not here yet cuz i forgot to upload
 
 ### ![Static Badge](https://img.shields.io/badge/🪟Windows-demo-blue?style=for-the-badge&logo=Window&logoColor=black&labelColor=%23deebff&color=%235294ff)
 
-<img src="windowsHyprland">
+<img src="winDemo">
 
 ## Installation Script
 
