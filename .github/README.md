@@ -19,5 +19,7 @@ cd ~/matte-dotfiles
 
 <img src="winDemo">
 
-
+# credits
+- Rofi Menu: bintangm
+- Waybar: Zeibytes
 
