@@ -20,7 +20,7 @@ fi
 
 # 3. Install common AUR packages used in Hyprland rices (Uncomment if you use them)
 echo "📦 Installing AUR packages..."
-# yay -S --noconfirm hyprshotswww swww-git pywal-16-colors
+yay -S --noconfirm hyprshot yazi hyprlock hyprpicker awww pywal-16-colors
 
 # 4. Ensure the system target directory exists
 mkdir -p ~/.config
